@@ -1,0 +1,13 @@
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.exe
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.deps.json
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.runtimeconfig.json
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.runtimeconfig.dev.json
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.dll
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\bin\Debug\netcoreapp3.1\IntegerDataTypes.pdb
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.AssemblyInfo.cs
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.dll
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.pdb
+C:\Users\melso\source\repos\IntegerDataTypes\IntegerDataTypes\obj\Debug\netcoreapp3.1\IntegerDataTypes.genruntimeconfig.cache
