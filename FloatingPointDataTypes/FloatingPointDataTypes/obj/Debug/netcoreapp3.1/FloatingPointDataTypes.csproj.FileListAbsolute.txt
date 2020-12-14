@@ -1,0 +1,13 @@
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.exe
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.deps.json
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.runtimeconfig.json
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.runtimeconfig.dev.json
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.dll
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\bin\Debug\netcoreapp3.1\FloatingPointDataTypes.pdb
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.AssemblyInfo.cs
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.dll
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.pdb
+C:\Users\melso\source\repos\FloatingPointDataTypes\FloatingPointDataTypes\obj\Debug\netcoreapp3.1\FloatingPointDataTypes.genruntimeconfig.cache
