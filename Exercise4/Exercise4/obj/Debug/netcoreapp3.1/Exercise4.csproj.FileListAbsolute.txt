@@ -1,0 +1,13 @@
+C:\Users\melso\source\repos\Exercise4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.exe
+C:\Users\melso\source\repos\Exercise4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.deps.json
+C:\Users\melso\source\repos\Exercise4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.json
+C:\Users\melso\source\repos\Exercise4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.runtimeconfig.dev.json
+C:\Users\melso\source\repos\Exercise4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\melso\source\repos\Exercise4\Exercise4\bin\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.AssemblyInfo.cs
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
+C:\Users\melso\source\repos\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache
