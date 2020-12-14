@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExampleCatsRuntime/1.0.0": {
+        "dependencies": {
+          "ExampleCats": "1.0.0"
+        },
+        "runtime": {
+          "ExampleCatsRuntime.dll": {}
+        }
+      },
+      "ExampleCats/1.0.0": {
+        "runtime": {
+          "ExampleCats.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleCatsRuntime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExampleCats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

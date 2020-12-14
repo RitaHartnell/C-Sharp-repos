@@ -1,0 +1,9 @@
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\bin\Debug\netstandard2.0\ExampleCats.deps.json
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\bin\Debug\netstandard2.0\ExampleCats.dll
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\bin\Debug\netstandard2.0\ExampleCats.pdb
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\obj\Debug\netstandard2.0\ExampleCats.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\obj\Debug\netstandard2.0\ExampleCats.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\obj\Debug\netstandard2.0\ExampleCats.AssemblyInfo.cs
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\obj\Debug\netstandard2.0\ExampleCats.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\obj\Debug\netstandard2.0\ExampleCats.dll
+C:\Users\melso\source\repos\ExampleCats\ExampleCats\obj\Debug\netstandard2.0\ExampleCats.pdb

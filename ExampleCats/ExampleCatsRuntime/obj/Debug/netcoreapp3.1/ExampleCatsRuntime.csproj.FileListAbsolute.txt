@@ -1,0 +1,16 @@
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCatsRuntime.exe
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCatsRuntime.deps.json
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCatsRuntime.runtimeconfig.json
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCatsRuntime.runtimeconfig.dev.json
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCatsRuntime.dll
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCatsRuntime.pdb
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCats.dll
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\bin\Debug\netcoreapp3.1\ExampleCats.pdb
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.AssemblyInfo.cs
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.csproj.CopyComplete
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.dll
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.pdb
+C:\Users\melso\source\repos\ExampleCats\ExampleCatsRuntime\obj\Debug\netcoreapp3.1\ExampleCatsRuntime.genruntimeconfig.cache
