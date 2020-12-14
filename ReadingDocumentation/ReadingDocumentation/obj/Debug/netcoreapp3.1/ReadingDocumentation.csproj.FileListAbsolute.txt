@@ -1,0 +1,13 @@
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.exe
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.deps.json
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.runtimeconfig.json
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.runtimeconfig.dev.json
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.dll
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\bin\Debug\netcoreapp3.1\ReadingDocumentation.pdb
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.AssemblyInfo.cs
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.dll
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.pdb
+C:\Users\melso\source\repos\ReadingDocumentation\ReadingDocumentation\obj\Debug\netcoreapp3.1\ReadingDocumentation.genruntimeconfig.cache
