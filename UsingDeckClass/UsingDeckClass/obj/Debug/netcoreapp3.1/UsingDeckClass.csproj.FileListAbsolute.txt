@@ -1,0 +1,13 @@
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\bin\Debug\netcoreapp3.1\UsingDeckClass.exe
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\bin\Debug\netcoreapp3.1\UsingDeckClass.deps.json
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\bin\Debug\netcoreapp3.1\UsingDeckClass.runtimeconfig.json
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\bin\Debug\netcoreapp3.1\UsingDeckClass.runtimeconfig.dev.json
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\bin\Debug\netcoreapp3.1\UsingDeckClass.dll
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\bin\Debug\netcoreapp3.1\UsingDeckClass.pdb
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.csprojAssemblyReference.cache
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.AssemblyInfoInputs.cache
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.AssemblyInfo.cs
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.csproj.CoreCompileInputs.cache
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.dll
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.pdb
+C:\Users\melso\source\repos\UsingDeckClass\UsingDeckClass\obj\Debug\netcoreapp3.1\UsingDeckClass.genruntimeconfig.cache
